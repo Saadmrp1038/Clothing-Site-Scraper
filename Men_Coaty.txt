@@ -1,0 +1,1142 @@
+[
+    {
+        "Name": "Charcoal Black Tie-Dyed And Embroidered Cotton Coaty",
+        "Price": "Tk 2,493.02",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093795_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2525096/s/charcoal-black-tie-dyed-and-embroidered-cotton-coaty-03e241104032/category/371/",
+        "Description": "Charcoal black tie-dyed cotton coaty with blue and red embroidery. Features two pockets.",
+        "Specifications": {
+            "Colour": "Black",
+            "Fabric": "Cotton",
+            "Value Addition": "Hand Embroidery",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Slate Blue Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,218.60",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000028042.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2515745/s/slate-blue-cotton-taaga-man-waistcoat-31h232007004/category/371/",
+        "Description": "Slate blue cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Slim Fit",
+            "Collar/Neck": "Round Neck",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Grey Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,218.60",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000028037.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2515742/s/grey-cotton-taaga-man-waistcoat-31g232007004/category/371/",
+        "Description": "Grey cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Slim Fit",
+            "Collar/Neck": "Round Neck",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Midnight Blue Textured Cotton Coaty",
+        "Price": "Tk 1,269.77",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093838.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2513345/s/midnight-blue-textured-cotton-coaty-03e241104075/category/371/",
+        "Description": "Midnight blue and white textured cotton coaty. Features welt pocket.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Grey Mixed Cotton Taaga Man Slim Fit Waistcoat",
+        "Price": "Tk 2,916.28",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000027238.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2489903/s/grey-mixed-cotton-taaga-man-slim-fit-waistcoat-31e242007003/category/371/",
+        "Description": "Grey mixed cotton Taaga Man waistcoat. Features welt pocket.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Side Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Black Mixed Polyester Taaga Man Slim Fit Waistcoat",
+        "Price": "Tk 2,609.30",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000027234.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2489900/s/black-mixed-polyester-taaga-man-slim-fit-waistcoat-31e242007004/category/371/",
+        "Description": "Black polyester-viscose Taaga Man waistcoat. Features welt pocket.",
+        "Specifications": {
+            "Colour": "Black",
+            "Fabric": "Mixed Polyester",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Side Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Beige Twill Fabric Taaga Man Slim Fit Waistcoat",
+        "Price": "Tk 2,181.40",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000026451.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2489879/s/beige-twill-fabric-taaga-man-slim-fit-waistcoat-31e242007001/category/371/",
+        "Description": "Beige twill fabric Taaga Man waistcoat. Features welt pocket.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Twill Fabric",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Charcoal Grey Viscose Coaty",
+        "Price": "Tk 1,781.40",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093981.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2476787/s/charcoal-grey-viscose-coaty-03e241104065/category/371/",
+        "Description": "Charcoal grey viscose cotton coaty. Features front pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Viscose",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Black/Blue Mixed Cotton Coaty",
+        "Price": "Tk 1,330.23",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093911.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2476781/s/black-blue-mixed-cotton-coaty-03e241104069/category/371/",
+        "Description": "Black and blue check mixed cotton coaty. Features front pockets.",
+        "Specifications": {
+            "Colour": "Black",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Grey Textured Viscose Coaty",
+        "Price": "Tk 2,288.37",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093903.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2474516/s/grey-textured-viscose-coaty-03e241104066/category/371/",
+        "Description": "Grey textured viscose coaty. Features two pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Viscose",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Grey/Black Printed Cotton Coaty",
+        "Price": "Tk 1,623.26",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093619.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2458199/s/grey-black-printed-cotton-coaty-15e240360239/category/371/",
+        "Description": "Grey and black printed cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Value Addition": "Screen Print",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Beige Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,176.74",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000028656.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2454887/s/beige-cotton-taaga-man-waistcoat-31z232007002/category/371/",
+        "Description": "Beige textured cotton one button Taaga Man waistcoat. Features left chest pocket and two bottom pockets.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Brown Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,153.49",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000028651.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2454884/s/brown-cotton-taaga-man-waistcoat-31gb232007002/category/371/",
+        "Description": "Brown textured cotton one button Taaga Man waistcoat. Features left chest pocket and two bottom pockets.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Navy Blue Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,125.58",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000026421.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2454857/s/navy-blue-cotton-taaga-man-waistcoat-31l232007002/category/371/",
+        "Description": "Navy Blue cotton one button Taaga Man waistcoat. Features left chest pocket and two bottom pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Blue Check Textured Cotton Coaty",
+        "Price": "Tk 1,362.79",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093881.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2451689/s/blue-check-textured-cotton-coaty-03e241104070/category/371/",
+        "Description": "Blue check cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short"
+        }
+    },
+    {
+        "Name": "White Printed Mixed Cotton Coaty",
+        "Price": "Tk 1,706.98",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093823.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2399070/s/white-printed-cotton-coaty-03e241104047/category/371/",
+        "Description": "White mixed cotton coaty with yellow prints. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Mixed Cotton",
+            "Value Addition": "Screen Print",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Grey Viscose Coaty",
+        "Price": "Tk 2,181.40",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093918.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2476784/s/grey-viscose-coaty-03e241104067/category/371/",
+        "Description": "Grey viscose cotton coaty. Features front pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Viscose",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Navy Blue/Grey Arri Embroidered Textured Mixed Cotton Coaty",
+        "Price": "Tk 2,711.63",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093724.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2402208/s/navy-blue-grey-arri-embroidered-textured-mixed-cotton-coaty-03e231104032/category/371/",
+        "Description": "Navy blue and golden textured mixed cotton coaty with grey arri embroidery.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Black Cotton Slim Fit Taaga Man Waistcoat",
+        "Price": "Tk 2,758.14",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023711.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2241393/s/black-cotton-slim-fit-taaga-man-waistcoat-31zb232007001/category/371/",
+        "Description": "Black slim fit cotton Taaga Man waistcoat. Five buttons and three pockets.",
+        "Specifications": {
+            "Colour": "Black",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Beige Cotton Slim Fit Taaga Man Waistcoat",
+        "Price": "Tk 2,758.14",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023676.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2241390/s/beige-cotton-slim-fit-taaga-man-waistcoat-31yb232007001/category/371/",
+        "Description": "Beige slim fit cotton Taaga Man waistcoat. Five buttons and three pockets.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Grey Printed Cotton Coaty",
+        "Price": "Tk 1,446.51",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093845.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2500571/s/grey-printed-cotton-coaty-15e240360440/category/371/",
+        "Description": "Grey cotton coaty with mustard and shades of pink prints. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Value Addition": "Screen Print",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Black Twill Cotton Waistcoat",
+        "Price": "Tk 2,265.12",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000026426.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2235042/s/black-twill-cotton-waistcoat-31s232007001/category/371/",
+        "Description": "Black and grey check twill cotton one button waistcoat. Features left chest pocket and two bottom pockets.",
+        "Specifications": {
+            "Colour": "Black",
+            "Fabric": "Twill Cotton",
+            "Cut /Fit": "Front Open",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Orange/Ivory Textured and Embroidered Cotton Coaty",
+        "Price": "Tk 2,981.40",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093738.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2458202/s/orange-ivory-textured-and-embroidered-cotton-coaty-03e241104051/category/371/",
+        "Description": "Orange and ivory textured cotton coaty with green and purple embroidery.",
+        "Specifications": {
+            "Colour": "Orange",
+            "Fabric": "Cotton",
+            "Value Addition": "Hand Embroidery",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Teal-Grey Ombre Dyed and Printed Endi Silk Coaty",
+        "Price": "Tk 3,911.63",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0100000092116.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2476778/s/teal-grey-ombre-dyed-and-printed-endi-silk-coaty-15e240126076/category/371/",
+        "Description": "Teal-grey ombre dyed textured cotton coaty with prints. Features front pockets.",
+        "Specifications": {
+            "Colour": "Green",
+            "Fabric": "Endi Silk",
+            "Value Addition": "Screen Print",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Pink Textured Mixed Cotton Coaty",
+        "Price": "Tk 1,581.40",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093668.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2366166/s/pink-textured-mixed-cotton-coaty-03f231104001/category/371/",
+        "Description": "Pink textured mixed cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Pink",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Beige Embroidered Cotton Coaty",
+        "Price": "Tk 2,344.19",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093731.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2301885/s/beige-embroidered-cotton-coaty-03r231104002/category/371/",
+        "Description": "Beige cotton coaty with multicolour embroidery.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Red Textured Cotton Coaty",
+        "Price": "Tk 1,200.00",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093853.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2431332/s/red-textured-cotton-coaty-03e241104063/category/371/",
+        "Description": "Red textured cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Red",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Navy Blue Mixed Cotton Coaty",
+        "Price": "Tk 1,493.02",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093710.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/men/coaty/navy-blue-mixed-cotton-coaty-03e241104037.html",
+        "Description": "Navy blue mixed cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "White/Blue Textured Cotton Coaty",
+        "Price": "Tk 1,125.58",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093661.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/men/coaty/white-blue-textured-cotton-coaty-03z231104003.html",
+        "Description": "White and blue textured cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Navy Blue Textured Cotton Coaty",
+        "Price": "Tk 2,493.02",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093946.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2451692/s/navy-blue-textured-cotton-coaty-03e241104052/category/371/",
+        "Description": "Navy blue textured cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Value Addition": "Machine Embroidery",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short"
+        }
+    },
+    {
+        "Name": "Yellow Textured Mixed Cotton Coaty",
+        "Price": "Tk 1,995.35",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093433_3.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2138161/s/yellow-textured-mixed-cotton-coaty-03z231104010/category/371/",
+        "Description": "Yellow textured mixed cotton coaty. Features two pockets.",
+        "Specifications": {
+            "Colour": "Yellow",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Orange Textured Mixed Cotton Coaty",
+        "Price": "Tk 1,269.77",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093577.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2253513/s/orange-textured-mixed-cotton-coaty-03e241104002/category/371/",
+        "Description": "Orange textured mixed cotton coaty with multicolour prints. Features with bottom pocket.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Yellow Mixed Cotton Coaty",
+        "Price": "Tk 1,441.86",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093491.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2220416/s/yellow-mixed-cotton-coaty-03e241104021/category/371/",
+        "Description": "Yellow mixed cotton coaty. Features with bottom pockets.",
+        "Specifications": {
+            "Colour": "Yellow",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Blue Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,213.95",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000024655.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2129380/s/blue-cotton-taaga-man-waistcoat-31p232007003/category/371/",
+        "Description": "Blue cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "High Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Blue Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,213.95",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000024650.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2129806/s/blue-cotton-taaga-man-waistcoat-31y232007003/category/371/",
+        "Description": "Blue cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "High Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Grey Textured Cotton Coaty",
+        "Price": "Tk 1,734.88",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093454.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2269101/s/grey-textured-cotton-coaty-03e231104043/category/371/",
+        "Description": "Grey textured  cotton coaty. Features three pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Regular Fit",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Navy Blue/Yellow Check Cotton Coaty",
+        "Price": "Tk 1,181.40",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093549.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2301879/s/navy-blue-yellow-check-cotton-coaty-03s231104002/category/371/",
+        "Description": "White, navy blue and yellow check cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Navy Blue Check Cotton Coaty",
+        "Price": "Tk 1,055.81",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093809.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2500568/s/navy-blue-check-cotton-coaty-03e241104056/category/371/",
+        "Description": "Navy blue and grey check cotton coaty. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Multicolour Tie-Dyed Cotton Coaty",
+        "Price": "Tk 2,218.60",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093425.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111212/s/multicolour-tie-dyed-cotton-coaty-03l231104001/category/371/",
+        "Description": "Multicolour tie-dyed cotton coaty.  Comes with six buttons and two pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Value Addition": "Tie & Dye",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Eggshell Cotton Taaga Man Waistcoat",
+        "Price": "Tk 3,130.23",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023706.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111116/s/eggshell-cotton-taaga-man-waistcoat-31yg232007002/category/371/",
+        "Description": "Eggshell cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Maroon Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,293.02",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023521.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111110/s/maroon-cotton-taaga-man-waistcoat-31jm232007002/category/371/",
+        "Description": "Maroon textured cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Maroon",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Pink Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,488.37",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023409.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111095/s/pink-cotton-taaga-man-waistcoat-31j232007001/category/371/",
+        "Description": "Pink textured cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Pink",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Blue Check Cotton Taaga Man Waistcoat",
+        "Price": "Tk 1,986.05",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023096.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111092/s/blue-check-cotton-taaga-man-waistcoat-31e232007005/category/371/",
+        "Description": "Blue check cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Grey Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,665.12",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023453.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111104/s/grey-cotton-taaga-man-waistcoat-31e232007006/category/371/",
+        "Description": "Grey check cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Multicolour Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,511.63",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023423.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111101/s/multicolour-cotton-taaga-man-waistcoat-31em232007003/category/371/",
+        "Description": "Multicolour check cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Beige Cotton Taaga Man Waistcoat",
+        "Price": "Tk 2,590.70",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023458.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111107/s/beige-cotton-taaga-man-waistcoat-31f232007006/category/371/",
+        "Description": "Beige check cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Light Blue Cotton Taaga Man Waistcoat",
+        "Price": "Tk 3,725.58",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023086.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111086/s/light-blue-cotton-taaga-man-waistcoat-31k232007001/category/371/",
+        "Description": "Light blue textured cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Beige Printed and Embroidered Endi Silk Coaty",
+        "Price": "Tk 4,283.72",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0100000092108.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2500565/s/beige-printed-and-embroidered-endi-silk-coaty-03e231002001/category/371/",
+        "Description": "Beige printed endi silk coaty with black, light yellow and pink embroidery. Features bottom pockets.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Endi Silk",
+            "Value Addition": "Machine Embroidery",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Grey Cotton Taaga Man Waistcoat",
+        "Price": "Tk 3,037.21",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023681.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/men/coaty/grey-cotton-taaga-man-waistcoat-31y232007001.html",
+        "Description": "Grey textured cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Grey Cotton Taaga Man Waistcoat",
+        "Price": "Tk 3,404.65",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023081.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2111083/s/grey-cotton-taaga-man-waistcoat-31f232007001/category/371/",
+        "Description": "Grey textured cotton Taaga Man waistcoat. Features five buttons and pockets.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Grey Cotton Taaga Man Waistcoat",
+        "Price": "Tk 1,911.63",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023824.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1981534/s/grey-cotton-taaga-man-waistcoat-31e232007007/category/371/",
+        "Description": "Grey cotton Taaga Man waistcoat. Features five buttons and three pockets. The green color adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Side Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Eggshell Cotton Taaga Man Waistcoat",
+        "Price": "Tk 3,130.23",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023696.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1981528/s/eggshell-cotton-taaga-man-waistcoat-31ye232007002/category/371/",
+        "Description": "Eggshell cotton Taaga Man waistcoat. Features five buttons and three pockets. The blue color adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Side Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Multicolour Textured Cotton Coaty",
+        "Price": "Tk 1,334.88",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093269_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1886865/s/multicolour-textured-cotton-coaty-03e231104027/category/371/",
+        "Description": "Dusty pink, maroon and black textured cotton coaty. Features button closure.",
+        "Specifications": {
+            "Colour": "Pink",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Cotton Waistcoat",
+        "Price": "Tk 1,725.58",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000024077_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1882553/s/cotton-waistcoat-31d232007008/category/371/",
+        "Description": "White cotton waistcoat. Features pockets. The white colour adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Sage Green Cotton Waistcoat",
+        "Price": "Tk 1,725.58",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023828.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1882547/s/sage-green-cotton-waistcoat-31e232007008/category/371/",
+        "Description": "Sage green cotton waistcoat. Features pockets. The sage green colour adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "Green",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Blue Cotton Waistcoat",
+        "Price": "Tk 2,776.74",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000020245.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1882495/s/blue-cotton-waistcoat-31h232007001/category/371/",
+        "Description": "Blue cotton waistcoat. Features five buttons and three pockets. The blue colour adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "Blue",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Off White Cotton Waistcoat",
+        "Price": "Tk 2,776.74",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000020239.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1882493/s/off-white-cotton-waistcoat-31e232007001/category/371/",
+        "Description": "Off white cotton waistcoat. Features pockets. The off white colour adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Ivory Check Cotton Coaty",
+        "Price": "Tk 1,744.19",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093081.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1880747/s/ivory-check-cotton-coaty-03e231104019/category/371/",
+        "Description": "Ivory cotton coaty with black, white and blue check. Comes with six buttons and two pockets.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "White Printed Mixed Cotton Coaty",
+        "Price": "Tk 1,860.47",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093231.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1867621/s/white-printed-mixed-cotton-coaty-03e231104036/category/371/",
+        "Description": "White textured mixed cotton coaty with black prints. Features buttons and chest pocket.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Regular Fit",
+            "Collar/Neck": "High Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Brown Wax Dyed and Brush Painted Cotton Coaty",
+        "Price": "Tk 2,069.77",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000092955.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1865239/s/brown-wax-dyed-and-brush-painted-cotton-coaty-03e231102015/category/371/",
+        "Description": "Brown wax dyed cotton coaty with brush paint details. Features pockets.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Value Addition": "Batik Print",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Light Brown Cotton Waistcoat",
+        "Price": "Tk 3,130.23",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023701.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1837190/s/light-brown-cotton-waistcoat-31y232007002/category/371/",
+        "Description": "Light brown cotton waistcoat. Features five buttons and two pockets. The light brown colour adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Side Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Green Cotton Waistcoat",
+        "Price": "Tk 1,995.35",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000022100.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1635832/s/green-cotton-waistcoat-31e232007002/category/371/",
+        "Description": "Green cotton waistcoat. Features five buttons and three pockets. The green colour adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "Green",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Coffee Cotton Waistcoat",
+        "Price": "Tk 1,995.35",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000022105.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1635835/s/coffee-cotton-waistcoat-31d232007002/category/371/",
+        "Description": "Coffee cotton waistcoat. Features five buttons and three pockets. The green colour adds a touch of sophistication and style to the waistcoat. It is the perfect accessory to complete any outfit and is sure to make an impression.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Machine Wash Separately In Cold Water. Wash Inside Out With Mild Detergent. Hang In Shade To Dry. No Bleach Or Tumble Dry. Low Iron At 110 Centigrade On Reverse."
+        }
+    },
+    {
+        "Name": "Purple Tie-Dyed Striped Cotton Coaty",
+        "Price": "Tk 2,093.02",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093088.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1790546/s/purple-tie-dyed-striped-cotton-coaty-03d221104011/category/371/",
+        "Description": "Purple textured tie-dyed cotton coaty. Features two bottom pockets.",
+        "Specifications": {
+            "Colour": "Purple",
+            "Fabric": "Cotton",
+            "Value Addition": "Tie & Dye",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Black Textured Mixed Cotton Waistcoat",
+        "Price": "Tk 2,623.26",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023428_2.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1699333/s/black-textured-mixed-cotton-waistcoat-31e232007003/category/371/",
+        "Description": "Black, white and dusty pink textured mixed cotton waistcoat. Features five buttons and three pockets.",
+        "Specifications": {
+            "Colour": "Black",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Regular Fit",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "Beige Check Mixed Cotton Waistcoat",
+        "Price": "Tk 2,609.30",
+        "Image_link": "https://www.aarong.com/media/catalog/product/1/2/1200000023413_4.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1699330/s/beige-check-mixed-cotton-waistcoat-31j232007002/category/371/",
+        "Description": "Beige, yellow, brown and grey check mixed cotton waistcoat. Features five buttons and three pockets.",
+        "Specifications": {
+            "Colour": "Brown",
+            "Fabric": "Mixed Cotton",
+            "Cut /Fit": "Regular Fit",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "White Printed Cotton Coaty",
+        "Price": "Tk 1,660.47",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000092811.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1858285/s/white-printed-cotton-coaty-03e231102022/category/371/",
+        "Description": "White cotton coaty with multicolour leaf prints.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Grey Viscose Coaty",
+        "Price": "Tk 2,860.47",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093925.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2506559/s/grey-viscose-coaty-03e241104064/category/371/",
+        "Description": "Grey viscose coaty. Features with two flip pocket and one welt pocket.",
+        "Specifications": {
+            "Colour": "Grey",
+            "Fabric": "Viscose",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Pocket": "Chest And Front Pocket",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    },
+    {
+        "Name": "Black/Brown Embroidered Cotton Coaty",
+        "Price": "Tk 2,600.00",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/1/0110000093895.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/2506556/s/black-brown-embroidered-cotton-coaty-03e241104077/category/371/",
+        "Description": "Black and brown cotton coaty with brown embroidery. Features six buttons.",
+        "Specifications": {
+            "Colour": "Black",
+            "Fabric": "Cotton",
+            "Value Addition": "Machine Embroidery",
+            "Cut /Fit": "Front Open",
+            "Collar/Neck": "Band Collar",
+            "Sleeve": "Sleeveless",
+            "Length": "Short",
+            "Care": "Dry Clean"
+        }
+    }
+]
