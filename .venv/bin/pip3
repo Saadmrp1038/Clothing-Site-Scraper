@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/pial/Work/Dev_Projects/Chaldal Scrapper/.venv/bin/python3" "$0" "$@"
-' '''
+#!/home/pial/Work/Dev_Projects/Scrapper/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
