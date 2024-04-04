@@ -17,6 +17,50 @@ chrome_options.add_argument("--headless")
 prefs = {"profile.managed_default_content_settings.images": 2}
 chrome_options.add_experimental_option("prefs", prefs)
 
+boys_category = [
+    "Shirts",
+    "Fatua",
+    "T-Shirts & Polos",
+    "Shirt Pant Sets",
+    "Pants",
+    "Panjabi",
+    "Pajama",
+    "Panjabi Pajama Sets"
+]
+
+boys_url = [
+    "https://www.aarong.com/kids/boys-8y-15y/shirts",
+    "https://www.aarong.com/kids/boys-ages-8-15/fatua",
+    "https://www.aarong.com/kids/boys-8y-15y/t-shirts-polos",
+    "https://www.aarong.com/kids/boys-8y-15y/shirt-pant-sets",
+    "https://www.aarong.com/kids/boys-8y-15y/pants",
+    "https://www.aarong.com/kids/boys-ages-8-15/panjabi",
+    "https://www.aarong.com/kids/boys-ages-8-15/pajama",
+    "https://www.aarong.com/kids/boys-8y-15y/panjabi-pajama-sets"
+]
+
+
+girls_category = [
+    "Frocks",
+    "Tops",
+    "Skirts",
+    "Shalwar Kameez",
+    "Ghagra Choli",
+    "Sweaters & Jackets",
+    "Shawls"
+]
+
+girls_url = [
+    "https://www.aarong.com/kids/girls-8y-15y/frocks",
+    "https://www.aarong.com/kids/girls-8y-15y/tops",
+    "https://www.aarong.com/kids/girls-8y-15y/skirts",
+    "https://www.aarong.com/kids/girls-8y-15y/shalwar-kameez",
+    "https://www.aarong.com/kids/girls-aged-8-15/ghagra-choli",
+    "https://www.aarong.com/kids/girls-8y-15y/sweaters-jackets",
+    "https://www.aarong.com/kids/girls-8y-15y/shawls"
+]
+
+
 def chunk_and_write_to_file(page_source, category_name):
     soup = BeautifulSoup(page_source, "lxml")
     product_elements = soup.find_all(class_='product-item-info')
@@ -73,12 +117,17 @@ def scrape_product_details(product_url):
         print("Failed to fetch product details from:", product_url)
         return None
 
-def scrape_product(product, count, lock):
+def scrape_product(product, category_name, count, lock):
     product_details = {}
     product_details["Name"] = product.find('strong', class_='product name product-item-name').text.strip()
     product_details["Price"] = product.find('span', class_='price').text.strip()
     product_details["Image_link"] = product.find('img', class_='product-image-photo')['src']
     product_details["Link"] =  product.find('a', class_='product-item-link')['href']
+    
+    product_details["Category"] = category_name
+    product_details["Company"] = "Aarong"
+    
+    product_details["Gender"] = "Boy"
     
     product_details.update(scrape_product_details(product_details["Link"]))
     
@@ -91,7 +140,7 @@ def scrape_product(product, count, lock):
     
     return product_details
 
-def scrape_products(page_source):
+def scrape_products(page_source, category_name):
     soup = BeautifulSoup(page_source, "lxml")
     product_elements = soup.find_all(class_='product-item-info')
     product_details_list = []
@@ -100,7 +149,7 @@ def scrape_products(page_source):
     with Pool() as pool, Manager() as manager:
         count = manager.Value('i', 0) 
         lock = manager.Lock()
-        chunk_results = [pool.apply_async(scrape_product, (product, count, lock)) for product in product_elements]
+        chunk_results = [pool.apply_async(scrape_product, (product, category_name, count, lock)) for product in product_elements]
         product_details_list = [result.get() for result in chunk_results]
             
     return product_details_list
@@ -153,21 +202,11 @@ def load_page_from_file(file_path):
         return file.read()
 
 def main():
-    url = "https://www.aarong.com/men"
-    page_source = fetch_webpage(url)
     
-    if page_source:
-        category_soup = BeautifulSoup(page_source, "lxml")
-        category_elements = category_soup.find_all(class_='shopby-info')
-        
-        # get_catagory_details(category_elements)
-        
-        category = category_elements[2]
-        
-        # for index, category in enumerate(category_elements[3:8], start=1):
+    for index in range(len(girls_url)):
                 
-        category_href = category.find('a')['href']
-        category_name = category.find('a').text
+        category_href = girls_url[index]
+        category_name = girls_category[index]
         
         print("Driver Start")
         
@@ -179,19 +218,16 @@ def main():
         
         print("Driver End")
         
-        # html_file_path = f"./men-shirt.html"
-        # html_content = load_page_from_file(html_file_path)
-        
         file_count = chunk_and_write_to_file(html_content, category_name)
         
         product_details_list = []
         for i in range(file_count):
             file_path = f"./Aarong/{category_name}_{i+1}.html"
             content = load_page_from_file(file_path)
-            product_details_list.extend(scrape_products(content))
+            product_details_list.extend(scrape_products(content, category_name))
             os.remove(f"./Aarong/{category_name}_{i+1}.html")
         
-        save_to_file(product_details_list, f"Men_{category_name}.json")
+        save_to_file(product_details_list, f"Aarong/Girls_{category_name}.json")
 
 if __name__ == "__main__":
     main()

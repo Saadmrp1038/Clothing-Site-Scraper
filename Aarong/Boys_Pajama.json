@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "White Cotton Churidar Pajama",
+        "Price": "Tk 455.81",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/2/0200000064872.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/kids/boys-8y-15y/pajama/white-cotton-churidar-pajama-04d241902046.html",
+        "Category": "Pajama",
+        "Company": "Aarong",
+        "Gender": "Boy",
+        "Description": "White cotton churidar pajama. Features elastic waist and drawstring.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Churidar",
+            "Length": "Long",
+            "Waist": "Elastic Waist",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "White Cotton Churidar Pajama",
+        "Price": "Tk 427.91",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/2/0200000064882.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/kids/boys-8y-15y/pajama/white-cotton-churidar-pajama-04g231902046.html",
+        "Category": "Pajama",
+        "Company": "Aarong",
+        "Gender": "Boy",
+        "Description": "White cotton churidar pajama with adjustable waist and cord.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Churidar",
+            "Length": "Long",
+            "Waist": "Elastic Waist",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    },
+    {
+        "Name": "White Cotton Aligori Pajama",
+        "Price": "Tk 427.91",
+        "Image_link": "https://www.aarong.com/media/catalog/product/0/2/0200000064875.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
+        "Link": "https://www.aarong.com/catalog/product/view/id/1497343/s/white-cotton-aligori-pajama-34p223912001/category/112/",
+        "Category": "Pajama",
+        "Company": "Aarong",
+        "Gender": "Boy",
+        "Description": "White cotton aligori pajama with adjustable waist and cord.",
+        "Specifications": {
+            "Colour": "White",
+            "Fabric": "Cotton",
+            "Cut /Fit": "Aligori",
+            "Length": "Long",
+            "Waist": "Elastic Waist",
+            "Care": "Hand Wash With Mild Detergent In Cold Water"
+        }
+    }
+]
