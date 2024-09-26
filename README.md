@@ -39,7 +39,7 @@ This project is a web scraper designed to extract data from multiple Bangladeshi
 
 
 ## Categories Scraped
-Sraped data of 4 categories with a total of 30 sub-categories. They are:
+Scraped data of 4 categories with a total of 30 sub-categories. They are:
 
 ### Men
 Coaty & Fatua, Footwear, Casual Pant, Formal Pant, New Arrivals, Panjabi, Shirts, Suit, T-Shirts, Wallets
