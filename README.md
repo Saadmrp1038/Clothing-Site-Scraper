@@ -10,7 +10,7 @@ This project is a web scraper designed to extract data from multiple Bangladeshi
 - [Categories Scraped](#categories-scraped)
 - [Installation](#installation)
 - [Parsed Dataset](#parsed-dataset)
-- [License](#license)
+- [Shop-Genie Integration](#shop-genie-Iintegration)
 
 ## Features
 - **Multi-Site Scraping**: Scrapes product information from Aarong, Allen Solly, Apex, Bata, and Infinity.
